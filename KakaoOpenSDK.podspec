@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'KakaoOpenSDK'
-  s.version          = "1.0.52"
+  s.version          = "1.0.52a"
   s.summary          = 'KakaoOpenSDK'
   s.license          = { :type => 'MIT', :text => 'MIT License' }
   s.author           = { "Samuel Hsiung" => "hsiung@pinterest.com" }
